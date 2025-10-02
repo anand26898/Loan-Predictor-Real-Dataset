@@ -97,7 +97,7 @@ Tested/Planned Models:
 
 ## 📝 Author
 
-👤 **Anand Kumar Sonj**
+👤 **Anand Kumar Soni**
 🔗 GitHub: [anand26898](https://github.com/anand26898)
 
 ---
